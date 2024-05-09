@@ -1,6 +1,6 @@
 {
-  "name": "Tetris",
-  "version": "1.0.0",
+  "name": "@xamotex1000/tetris",
+  "version": "1.0.1",
   "description": "A clone of tetris built for running in a terminal via node.js ",
   "main": "Game.js",
   "scripts": {
@@ -10,7 +10,10 @@
   "author": "xamotex1000",
   "license": "MIT",
   "dependencies": {
-    "keypress": "^1.0.1",
+    "keypress": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xamotex1000/Terminal-Based-Tetris-Clone.git"
   }
 }
-

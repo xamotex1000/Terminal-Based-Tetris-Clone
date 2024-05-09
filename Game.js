@@ -182,8 +182,8 @@ function rotate(direction) {
 	for(var i = 0; i < TP.length-1; i++){
 		TI[i] = [TP[i+1]-TP[0], TH[i+1]-TH[0]];
 		RemoveAt(TP[i+1], TH[i+1]);
-		TPL[i] = TP[0]-TI[i][0]*direction;
-		THL[i] = TH[0]+TI[i][1]*direction;
+		TPL[i] = TP[0]-TI[i][1]*direction;
+		THL[i] = TH[0]+TI[i][0]*direction;
 	}
 	if(ifArray(THL, TPL, "validityCheck")){
 		TP[1] = TPL[0];
