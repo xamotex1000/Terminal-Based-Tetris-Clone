@@ -1,0 +1,16 @@
+{
+  "name": "Tetris",
+  "version": "1.0.0",
+  "description": "A clone of tetris built for running in a terminal via node.js ",
+  "main": "Game.js",
+  "scripts": {
+    "start": "node Game.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xamotex1000",
+  "license": "MIT",
+  "dependencies": {
+    "keypress": "^1.0.1",
+  }
+}
+
