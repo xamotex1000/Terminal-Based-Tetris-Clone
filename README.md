@@ -10,5 +10,5 @@ Pretty Much Done, probably not updating it any time soon
 !Windows is untested!
 
 1. Execute Game-Win.exe
-2. 
-3. Done
+
+2. Done
