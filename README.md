@@ -2,6 +2,8 @@
 Pretty Much Done, probably not updating it any time soon
 
 <h2>FOR LINUX USERS</h2>
+!Recommended!
+
 1. Execute `Run.sh`
 
 2. Done
